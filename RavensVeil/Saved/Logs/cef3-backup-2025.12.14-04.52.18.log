@@ -1,0 +1,7 @@
+[1724:9756:1213/233613.390:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[1724:14320:1213/233613.493:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[1724:9756:1213/233613.544:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[1724:9756:1213/233639.208:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[1724:16064:1213/233718.723:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1724:16064:1213/235039.325:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[1724:9756:1213/235218.162:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

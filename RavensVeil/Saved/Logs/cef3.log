@@ -1,0 +1,13 @@
+[10556:11936:1214/002309.738:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10556:11936:1214/002309.741:ERROR:persistent_memory_allocator.cc(908)] Corruption detected in shared-memory segment.
+[10556:15348:1214/002309.910:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[10556:11936:1214/002310.064:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[10556:9168:1214/002345.352:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10556:11936:1214/002613.809:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[10556:9168:1214/003416.920:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10556:9168:1214/005002.828:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10556:9168:1214/005921.247:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10556:9168:1214/010520.249:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10556:11936:1214/011438.309:ERROR:device_event_log_impl.cc(196)] [01:14:38.271] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: No se ha encontrado el elemento. (0x490)
+[10556:9168:1214/011520.262:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[10556:11936:1214/011816.980:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
