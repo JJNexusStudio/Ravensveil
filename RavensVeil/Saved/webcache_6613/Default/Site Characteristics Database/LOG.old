@@ -1,2 +1,5 @@
-2025/12/13-23:36:17.166 cdc Creating DB C:\Users\juane\OneDrive\Documents\Unreal Projects\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database since it was missing.
-2025/12/13-23:36:20.487 cdc Reusing MANIFEST C:\Users\juane\OneDrive\Documents\Unreal Projects\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
+2026/01/22-23:07:48.555 2dc4 Log #3: 2 ops saved to Table #4 OK
+2026/01/22-23:07:48.575 2dc4 Archiving D:\unreal\UE_5.7\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
+2026/01/22-23:07:48.575 2dc4 Table #4: 2 entries OK
+2026/01/22-23:07:48.577 2dc4 Archiving D:\unreal\UE_5.7\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/01/22-23:07:48.583 2dc4 **** Repaired leveldb D:\unreal\UE_5.7\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
