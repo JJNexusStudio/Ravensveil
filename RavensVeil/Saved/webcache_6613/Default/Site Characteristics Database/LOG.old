@@ -1,5 +1,6 @@
-2026/01/22-23:07:48.555 2dc4 Log #3: 2 ops saved to Table #4 OK
-2026/01/22-23:07:48.575 2dc4 Archiving D:\unreal\UE_5.7\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/01/22-23:07:48.575 2dc4 Table #4: 2 entries OK
-2026/01/22-23:07:48.577 2dc4 Archiving D:\unreal\UE_5.7\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/01/22-23:07:48.583 2dc4 **** Repaired leveldb D:\unreal\UE_5.7\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 179 bytes. Some data may have been lost. ****
+2026/01/27-22:47:52.038 14e4 Log #6: 1 ops saved to Table #7 OK
+2026/01/27-22:47:52.041 14e4 Archiving C:\Users\juane\OneDrive\Documents\Unreal Projects\RavensVeil\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/01/27-22:47:52.044 14e4 Table #4: 2 entries OK
+2026/01/27-22:47:52.044 14e4 Table #7: 1 entries OK
+2026/01/27-22:47:52.061 14e4 Archiving C:\Users\juane\OneDrive\Documents\Unreal Projects\RavensVeil\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/01/27-22:47:52.082 14e4 **** Repaired leveldb C:\Users\juane\OneDrive\Documents\Unreal Projects\RavensVeil\Ravensveil\RavensVeil\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 341 bytes. Some data may have been lost. ****
